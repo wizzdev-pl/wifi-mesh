@@ -18,7 +18,7 @@ Devices are subscribed to the topic and detect messages from mosquitto_pub (you 
 - set up mesh password (len >=8)
 - flash all esp32 devices. It is best to turn them on at the same time.
 
-* Setting channel to 0 can make scanning the network slower. If the channel of the AP is fixed it is recommended to configure this channel for all nodes.\
+*Setting channel to 0 can make scanning the network slower. If the channel of the AP is fixed it is recommended to configure this channel for all nodes.\
 After the network has been established the AP channel cannot change unless you set set the allow_channel_switch field in mesh_cfg_t to true.\
 Channel switches of the AP will result in the mesh network being offline while all the nodes are switching channels.\
 So it is recommended to fix the channel in the router.
