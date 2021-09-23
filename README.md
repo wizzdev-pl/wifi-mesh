@@ -46,8 +46,7 @@ response of mosquitto_sub:
 `/topic/03c8b0f712023b6d/ip_mesh/key_pressed <esp32 mac address>`
 
 # Links
-- https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/mesh.html
-- https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_mesh.html
+- https://docs.espressif.com/projects/esp-idf/en/v4.1/api-guides/mesh.html
 - https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-guides/esp-wifi-mesh.html#channel-and-router-switching-configuration
 - https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-guides/esp-wifi-mesh.html#asynchronous-power-on-reset
 - https://github.com/espressif/esp-idf/tree/1d7068e/examples/mesh/ip_internal_network
